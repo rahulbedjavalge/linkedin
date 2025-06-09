@@ -52,14 +52,14 @@ python --version  # Verify Python installation
 
 ### Run the Application
 ```bash
-python linkedin_navigator.py
+python linkedin.py
 ```
 
 ## 🎯 Usage
 
 1. **Start the Application**
    ```bash
-   python linkedin_navigator.py
+   python linkedin.py
    ```
 
 2. **Login to LinkedIn**
